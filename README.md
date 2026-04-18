@@ -1,6 +1,8 @@
-# Python shell scripting
+# alche-higher_level_programming
 
-This project contains basic Python scripts that demonstrate how to:
-- Run Python scripts using environment variables
-- Use shell scripts to execute Python code
+## Description
+This repository contains Python programming projects
+covering higher level programming concepts.
 
+## Projects
+- python-hello_world: Introduction to Python basics
